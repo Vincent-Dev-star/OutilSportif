@@ -1,0 +1,47 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"user": "admin",
+			"password": 1234
+		}
+	],
+	"clients": [
+		{
+            "id":1,
+            "rapports":[
+                {
+                    "id": "1",
+                    "prenom": "Lara",
+                    "nom": "Croft",
+                    "sport": "Course, 3min, intense",
+                    "repas": "leger",
+                    "collation": true,
+                    "poid": "84",
+                    "humeur":"bien"
+                }
+
+            ]
+        },
+        {
+            "id":2,
+            "rapports":[
+                {
+                    "id": "2",
+                    "prenom": "Longue",
+                    "nom": "Croft",
+                    "sport": "Muscu, 6min, moyen",
+                    "repas": "leger",
+                    "collation": false,
+                    "poid": "75",
+                    "humeur":"bien"
+                }
+
+            ]
+
+
+		}
+        
+           
+	]
+}
